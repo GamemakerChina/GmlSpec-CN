@@ -36614,6 +36614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function is used to retrieve information for the given tileset.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051256Z" creationid="qq106" creationdate="20230303T051256Z">
+        <seg>此函数用于检索给定tileset的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function is used to retrieve information for the given font.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -50078,6 +50086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can set the mipmap bias value, where a value of 0 equals no bias, 1 equals the first mipmap, 2 equals the second mipmap etc...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051349Z" creationid="qq106" creationdate="20230303T051349Z">
+        <seg>通过此函数，您可以设置多纹理贴图偏移值，其中值0等于无偏移，1等于第一个多纹理贴图，2等于第二个多纹理贴图，依此类推... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can set the mix of red, green and blue colours for all particles created of the given type.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -52726,6 +52742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You give the tile map element ID (which you get when you create a tile map element using layer_tilemap_create() or when you use the function layer_tilemap_get_id()), and then the mask value.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051239Z" creationid="qq106" creationdate="20230303T051239Z">
+        <seg>给出tile map元素ID(使用layer_tilemap_create()创建tile map元素或使用函数layer_tilemap_get_id()时获得)，然后指定遮罩值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You give the tile map element ID (which you get when you create a tile map element using layer_tilemap_create() or when you use the function layer_tilemap_get_id()), and then the tile data to set as well as the position within the room.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -54034,6 +54058,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>您为着色器采样器提供索引值(由函数shader_get_sampler_index()返回)，此函数将返回下面列出的模式值常量之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You supply the index value for the shader sampler (as returned by the function shader_get_sampler_index(), and the function will return the current maximum mipmap level, where a value of 0 is the highest resolution, 1 is to use the first mipmap, 2 is the second etc...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051332Z" creationid="qq106" creationdate="20230303T051332Z">
+        <seg>您为着色器采样器提供索引值(由函数shader_get_sampler_index()返回)，此函数将为当前最大分辨率返回值0，为第一个mipmap返回值1，为第二个mipmap返回值2，依此类推...</seg>
       </tuv>
     </tu>
     <tu>
