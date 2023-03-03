@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A common example of use in programming would be to calculate the number of bits that are needed to represent a number.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051653Z" creationid="qq106" creationdate="20230303T051653Z">
+        <seg>编程中一个常见的例子是计算表示一个数所需的位数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A default value of 0 will clear all the tiles from the layer (essentially making all tiles "empty"), while you can use the dedicated tile_* functions to create your own tile data to clear the tile map with.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -3586,6 +3594,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>例如，radtodeg(sin(180))将返回-45度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, random(100) will return a value from 0 to 99, but that value can be 22.56473!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051713Z" creationid="qq106" creationdate="20230303T051713Z">
+        <seg>例如，random(100)将返回一个从0到99的值，但该值可以是22.56473!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12718,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The "flags" are the return value of a combination of the following constants:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051805Z" creationid="qq106" creationdate="20230303T051805Z">
+        <seg>"flags"是以下常量组合的返回值:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The "groupname" is a string and will be used as the directory name for where the files will be saved, and should be used as part of the file path when loading the files back into the IDE later (using any of the buffer_load() functions).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230301T153326Z" creationid="LiarOnce" creationdate="20230301T153326Z">
@@ -16082,6 +16106,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>错误可能是由无效的令牌、客户端版本不匹配、协议版本不匹配引起的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The error means that client uses obsolete version of the protocol.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051854Z" creationid="qq106" creationdate="20230303T051854Z">
+        <seg>该错误意味着客户端使用的是该协议的过时版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32286,6 +32318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are a number of ways that this can be avoided, for example using distance_to_point() to see how far from the specified location the instance is before moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051755Z" creationid="qq106" creationdate="20230303T051755Z">
+        <seg>有许多方法可以避免这种情况，例如使用distance_to_point()来查看实例在移动之前离指定位置有多远。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are many options here which allow complete simulation of all possible events, but note that this literally just performs all the code in the event and the game will not modify anything to make it trigger itself manually, for example if you choose to perform a keyboard press event, the event will be triggered but relevant key will not be recognised as having been pressed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -33338,6 +33378,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数要求您在房间内定义一个矩形，然后将所有MP网格单元格“接触”该矩形标记为禁止，这意味着寻路函数不能跨越它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function basically asks "how many 2's do you need to multiply to get n?".</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051648Z" creationid="qq106" creationdate="20230303T051648Z">
+        <seg>此函数基本上是问"你需要乘以多少个2才能得到n？"</seg>
       </tuv>
     </tu>
     <tu>
@@ -42566,6 +42614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means that you can get a "vibrating" instance as it moves (for example) 3 pixels forward, overshoots the x/y target position by 2, then moves 3 pixels back again, overshooting the target point by one and so on...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051751Z" creationid="qq106" creationdate="20230303T051751Z">
+        <seg>这意味着，当它向前移动(例如)3个像素，超出x/y目标位置2个像素，然后再次向后移动3个像素，超出目标点1个像素等等时，您可以获得一个"振动"实例... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This means that you can tell instances with that fixture to always collide or never collide with other instance that have fixtures bound to them with the same collision group.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -47718,6 +47774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can create a single particle anywhere within your game room, setting certain flags and properties.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051801Z" creationid="qq106" creationdate="20230303T051801Z">
+        <seg>通过此函数，你可以在游戏房间的任何地方创建一个粒子，设置一些标志和属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can create a sprite from a previously initialised surface (the surface index ID value is returned when you create the surface using surface_create()).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -51074,6 +51138,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>你也可以告诉它在启用时使用精确的碰撞检查，但是注意，这需要所有的实例都启用精确的遮罩，并且当涉及到许多实例时，会由于必须完成的处理量而大大降低游戏速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also use real numbers and not integers in this function like this - random(0.5), which will return a value between 0 and 0.4999999.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051709Z" creationid="qq106" creationdate="20230303T051709Z">
+        <seg>您还可以在此函数中使用实数而不是整数，例如random(0.5)，它将返回0到0.4999999之间的值。</seg>
       </tuv>
     </tu>
     <tu>
