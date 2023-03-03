@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example many people use the keys WASD for movement, but then many people also use the arrow keys!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051506Z" creationid="qq106" creationdate="20230303T051506Z">
+        <seg>例如，许多人使用WASD键进行移动，但也有许多人使用方向键!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example max(12, 96, 32, 75) will return 96 as that is the highest of all the input values.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -6706,6 +6714,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>通过这种方式，您可以使用timeline_add()函数创建一个新的时间线，并在任意点添加不同的行为，或者简单地用新的行为修改先前创建的时间线资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this way you can create particles of the same hue but different saturations, or of different hues but the same value (luminosity) etc...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051405Z" creationid="qq106" creationdate="20230303T051405Z">
+        <seg>通过这种方式，你可以创建相同色调但不同饱和度的粒子，或者不同色调但相同亮度的粒子...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So exp(3) would return 20.08, which means that after 3 time units we have 20.08 times the amount we started with.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051618Z" creationid="qq106" creationdate="20230303T051618Z">
+        <seg>所以 exp(3) 将返回 20.08，这意味着在 3 个时间单位之后，我们的数量是开始数量的 20.08 倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So if we want to find out how many time units we need to get 20 growth we would use ln(20) which returns 2.99 units of time to get that amount of growth.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -12050,6 +12074,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>因此，让我们考虑下图，该图显示了这两者之间的关系:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So log10(100) returns 2, as multiplying 10 by itself gives 100, log10(1000) returns 3 as 10x10x10=1000 etc...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051641Z" creationid="qq106" creationdate="20230303T051641Z">
+        <seg>因此，log10(100)返回2，因为10乘以自身得到100，log10(1000)返回3，因为10x10x10=1000，等等...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So, what to do?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051508Z" creationid="qq106" creationdate="20230303T051508Z">
+        <seg>那么，该怎么办呢?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So, when two instances collide, their motion is affected by this value, with a high friction causing a larger loss of momentum than a lower value.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -12266,6 +12306,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>有时问题可能出在你游戏的渲染部分，例如一个精灵可能被画在错误的位置或旋转，给人不正确的物理外观，或者可能是你的计算不正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes when making a game you may wish one key to do the same as another.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051425Z" creationid="qq106" creationdate="20230303T051425Z">
+        <seg>有时候在制作游戏时，你可能希望一个键和另一个键做同样的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12730,6 +12778,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230301T153359Z" creationid="LiarOnce" creationdate="20230301T153359Z">
         <seg>"size"是您希望填充的缓冲区的大小(以字节为单位)，而offset是从开始填充的缓冲区开始的偏移值(也以字节为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The "surface_id" is that of a surface you have created previously, or the application_suface, and the function will resize that surface.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051417Z" creationid="qq106" creationdate="20230303T051417Z">
+        <seg>"surface_id"是您之前创建的表面或application_surface的表面，此函数将调整该表面的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15850,6 +15906,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>粒子的分布方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dot product is a value expressing the angular relationship between two vectors and is found by taking two vectors, multiplying them together and then adding the results.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051600Z" creationid="qq106" creationdate="20230303T051600Z">
+        <seg>点积是一个表示两个向量之间角度关系的值，通过取两个向量，将它们相乘，然后将结果相加得到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19278,6 +19342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The index into the array to start checking from</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051543Z" creationid="qq106" creationdate="20230303T051543Z">
+        <seg>要开始进行检查的数组的索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The index is the UTF8 map number for the first character to use and the ranges to use are the same as you would for a normal font, starting with "!" but remember that you should only include what you need and that you should be using the ord() function to get the correct UTF8 value for the starting letter.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -22486,6 +22558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The name "dot product" is derived from the centered dot "·" that is often used to designate this operation (the alternative name "scalar product" emphasizes the scalar rather than vector nature of the result).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051606Z" creationid="qq106" creationdate="20230303T051606Z">
+        <seg>"点积"这个名称来源于通常用于指定此操作的居中点"·"(另一个名称"标量积"强调结果的标量性质而不是向量性质)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The name (a string file path) of the file to add.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -23598,6 +23678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number does not have to be divisible by ten, however, but this will still return an appropriate value, for example if we have log10(101) we get 2.00432137... which is how many times you could divide 101 by 10.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051637Z" creationid="qq106" creationdate="20230303T051637Z">
+        <seg>然而，这个数不一定能被10整除，但这仍然会返回一个适当的值，例如，如果我们有log10(101 ),我们得到2.00432137...也就是101除以10的次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of arguments (0 - 10)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -23778,6 +23866,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>请求空间的玩家数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of positions from the given index to check</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051547Z" creationid="qq106" creationdate="20230303T051547Z">
+        <seg>从给定索引中检查的位置数</seg>
       </tuv>
     </tu>
     <tu>
@@ -32558,6 +32654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This basically says "how much growth do I get after n units of time (and 100% continuous growth)?".</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051613Z" creationid="qq106" creationdate="20230303T051613Z">
+        <seg>这基本上是说"在n个单位时间内(100%持续增长)我能获得多少增长?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This built-in variable can be used to either get or set the texture page size when using the function font_add().</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -39750,6 +39854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will resize a surface to the given dimensions (in pixels).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051411Z" creationid="qq106" creationdate="20230303T051411Z">
+        <seg>此函数将调整表面的大小到给定的尺寸(以像素为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will restart the current room, as if it had just been entered.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -44822,6 +44934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, you could code the movement system twice, but that is a bit complicated and thankfully redundant as this function permits you to "map" one key to another and so any input from either key will be interpreted as the same.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051500Z" creationid="qq106" creationdate="20230303T051500Z">
+        <seg>好吧，你可以编写两次移动系统代码，但这有点复杂，谢天谢地，因为此函数允许你将一个键"映射"到另一个键，所以来自两个键的任何输入都将被解释为相同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What kind of bounding box to use.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -46918,6 +47038,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can check the weak reference to a struct to see if it is still "alive" or not.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051524Z" creationid="qq106" creationdate="20230303T051524Z">
+        <seg>使用此函数，您可以检查对结构的弱引用，看看它是否仍然是"活动的"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can check the weak reference to various structs to see if it they are still "alive" or not.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051539Z" creationid="qq106" creationdate="20230303T051532Z">
+        <seg>使用此函数，你可以检查对各种结构的弱引用，看看它们是否仍然"存活"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can check the weak reference to a struct to see if it is still "alive" or not.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -48850,6 +48986,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>使用此函数，您可以将给定的datetime值增加特定的年数，它将返回新的datetime值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can indicate to the garbage collector that it shoulde aim to spend no more than the time specified running each frame.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T051512Z" creationid="qq106" creationdate="20230303T051512Z">
+        <seg>通过此函数，您可以向垃圾收集器指示，它的目标是不超过运行每帧所指定的时间。</seg>
       </tuv>
     </tu>
     <tu>
