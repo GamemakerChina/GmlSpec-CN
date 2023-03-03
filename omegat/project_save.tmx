@@ -49926,6 +49926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can set the currently set maximum mipmap level which is to be used, where a value of 0 is the highest resolution, 1 is to use the first mipmap, 2 is the second etc...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qq106" changedate="20230303T050846Z" creationid="qq106" creationdate="20230303T050846Z">
+        <seg>通过此函数，您可以设置当前设置的要使用的最大mipmap级别，其中值0表示最高分辨率，1表示使用第一个mipmap，2表示第二个mipmap，依此类推...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can set the cursor for the game window to any one of the constants listed below (to find the current cursor being used you can use the function window_get_cursor() which will also return one of these constants):</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
