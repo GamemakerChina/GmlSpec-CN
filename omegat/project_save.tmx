@@ -8430,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No file filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063243Z" creationid="LiarOnce" creationdate="20230305T063243Z">
+        <seg>无文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No mouse button</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -15122,6 +15130,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>用于设置衰减模型的常量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The constructor reference to check against</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063234Z" creationid="LiarOnce" creationdate="20230305T063234Z">
+        <seg>要检查的构造函数引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -27270,6 +27286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The struct or Function reference to use.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063237Z" creationid="LiarOnce" creationdate="20230305T063237Z">
+        <seg>要使用的结构或函数引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The struct pointer for the channel to evaluate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -27310,6 +27334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The struct reference to set.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063239Z" creationid="LiarOnce" creationdate="20230305T063239Z">
+        <seg>要设置的结构引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The struct reference to use</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -27330,6 +27362,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要为其创建弱引用的结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The struct to set as the static</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063241Z" creationid="LiarOnce" creationdate="20230305T063241Z">
+        <seg>要设置为静态</seg>
       </tuv>
     </tu>
     <tu>
@@ -56278,6 +56318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>returns the static struct for the given struct or function / script, returns undefined if no static struct is set.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063236Z" creationid="LiarOnce" creationdate="20230305T063236Z">
+        <seg>返回给定结构或函数/脚本的静态结构，如果未设置静态结构，则返回未定义的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>returns true if "struct" has "constructor_name" as part of its inheritance hierarchy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063232Z" creationid="LiarOnce" creationdate="20230305T063232Z">
@@ -56314,6 +56362,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>取样器索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sets the static struct on the given struct.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063238Z" creationid="LiarOnce" creationdate="20230305T063238Z">
+        <seg>在给定结构上设置静态结构。</seg>
       </tuv>
     </tu>
     <tu>
