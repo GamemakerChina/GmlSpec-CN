@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An array of values to be search inside the provided array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063210Z" creationid="LiarOnce" creationdate="20230305T063210Z">
+        <seg>要在提供的数组中搜索的值数组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An array of values to replace the placeholders.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -2734,6 +2742,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determines whether an array includes a certain value among its entries, returning true or false as appropriate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063150Z" creationid="LiarOnce" creationdate="20230305T063150Z">
+        <seg>确定数组的条目中是否包含某个值，并根据需要返回true或false。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Determines whether an array includes certain values among its entries, returning true or false as appropriate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063158Z" creationid="LiarOnce" creationdate="20230305T063158Z">
+        <seg>确定数组的条目中是否包含某些值，根据需要返回true或false。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog event</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -2770,6 +2794,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>通过降低带宽使声音失真。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doesn't account for order.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063208Z" creationid="LiarOnce" creationdate="20230305T063208Z">
+        <seg>并不能解释顺序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4310,6 +4342,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How many entries should be checked.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063153Z" creationid="LiarOnce" creationdate="20230305T063153Z">
+        <seg>应检查多少条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many entries should be searched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063140Z" creationid="LiarOnce" creationdate="20230305T063140Z">
+        <seg>应该搜索多少个条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many entries should be shuffled.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063130Z" creationid="LiarOnce" creationdate="20230305T063125Z">
+        <seg>应该置乱多少个条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How many times to multiply x by itself.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -4902,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If less than or equal to 0 no clamping is performed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063113Z" creationid="LiarOnce" creationdate="20230305T063041Z">
+        <seg>如果小于或等于0，则不执行钳位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If more than one value has the same priority, then any one of them could be returned in any order, but all other values with the same priority will still be in the queue.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -5002,6 +5066,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>如果没有找到标记或者有错误(例如:给定的名称字符串不存在)，那么返回的数组将为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If not specified the perpendicular to the direction of movement is used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063036Z" creationid="LiarOnce" creationdate="20230305T063036Z">
+        <seg>如果未指定，则使用与移动方向垂直的方向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5682,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>如果该值大于子图的数量，那么 GameMaker 会自动循环该数字来选择对应的图像（例如，如果正在绘制的精灵有 5 个子图，编号为 0 到 4，我们将索引值设置为7、然后函数会绘制子图3，编号为0）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the value is not found the function returns -1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063136Z" creationid="LiarOnce" creationdate="20230305T063136Z">
+        <seg>如果没有找到该值，则函数返回-1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,6 +11170,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>返回一个数组，该数组包含此时间源的所有子对象的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Returns an array of instances that it has collided with.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063026Z" creationid="LiarOnce" creationdate="20230305T063026Z">
+        <seg>返回与其发生冲突的实例数组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21910,6 +21998,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum distance in the x direction the instance will move.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063040Z" creationid="LiarOnce" creationdate="20230305T063040Z">
+        <seg>实例将在x方向上移动的最大距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum distance in the y direction the instance will move.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063119Z" creationid="LiarOnce" creationdate="20230305T063119Z">
+        <seg>实例将在y方向上移动的最大距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum distance the object can travel (-1 or 0 a default value of 1000 pixels).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -23990,6 +24094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of steps the motion will be broken down into to resolve collisions, defaults to 4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063033Z" creationid="LiarOnce" creationdate="20230305T063033Z">
+        <seg>为解决冲突而将运动分解为的步数，默认为4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of the instance to find.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -24238,6 +24350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The object to check for collisions with.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063031Z" creationid="LiarOnce" creationdate="20230305T063031Z">
+        <seg>要检查与其发生碰撞的对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The object to check for instance collisions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -24346,6 +24466,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>执行函数时要使用的偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The offset to be used when looking through the array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063152Z" creationid="LiarOnce" creationdate="20230305T063152Z">
+        <seg>查看数组时要使用的偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The offset to be used when searching the array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063139Z" creationid="LiarOnce" creationdate="20230305T063139Z">
+        <seg>搜索数组时要使用的偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The offset to be used when shuffling the array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063124Z" creationid="LiarOnce" creationdate="20230305T063124Z">
+        <seg>调整数组时要使用的偏移量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25418,6 +25562,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>夹具的恢复(通常在0和1之间)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The return code of the application, will defaul to 0.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063022Z" creationid="LiarOnce" creationdate="20230305T063022Z">
+        <seg>应用程序的返回代码将默认为0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28878,6 +29030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The value to check inside the array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063151Z" creationid="LiarOnce" creationdate="20230305T063151Z">
+        <seg>要在数组内部检查的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The value to check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -29002,6 +29162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要返回其反正切值的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value to search for.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063137Z" creationid="LiarOnce" creationdate="20230305T063137Z">
+        <seg>要搜索的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29714,6 +29882,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>粒子的x和y位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The x component of direction to move in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063027Z" creationid="LiarOnce" creationdate="20230305T063027Z">
+        <seg>移动方向的x分量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The x component of direction to move to attempt to avoid obstacles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063035Z" creationid="LiarOnce" creationdate="20230305T063035Z">
+        <seg>移动方向的x分量，以尝试避开障碍物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30930,6 +31114,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>xstart和ystart参数表示房间坐标中路径的起点，而xgoal、ygoal参数表示目的地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The y component of direction to move in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063029Z" creationid="LiarOnce" creationdate="20230305T063029Z">
+        <seg>要移入的方向的y分量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The y component of direction to move to attempt to avoid obstacles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063038Z" creationid="LiarOnce" creationdate="20230305T063038Z">
+        <seg>移动方向的y分量，以尝试避开障碍物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37834,6 +38034,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数返回指定文件名的扩展名部分，包括前导点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function returns the first index at which a given element can be found in the array (or subsection).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063133Z" creationid="LiarOnce" creationdate="20230305T063133Z">
+        <seg>此函数返回可以在数组(或子数组)中找到给定元素的第一个索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46046,6 +46254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whether the match should be complete of partial.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063211Z" creationid="LiarOnce" creationdate="20230305T063211Z">
+        <seg>比赛是否应该是完全的还是部分的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whether the motor should be active (true) or not (false)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -50622,6 +50838,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can shuffle an array (or subsection) in place, nothing is returned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063132Z" creationid="LiarOnce" creationdate="20230305T063132Z">
+        <seg>使用此函数可以将数组(或子部分)置乱到位，不会返回任何内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can shuffle an array (or subsection), a new array is returned that is a copy of the original with the entries shuffled.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063121Z" creationid="LiarOnce" creationdate="20230305T063121Z">
+        <seg>使用此函数，您可以对数组(或子部分)进行置乱，返回一个新的数组，该数组是原始数组的副本，其中的条目被置乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can simulate the press of any key on the keyboard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -50706,6 +50938,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>通过此函数，你可以告诉GameMaker去激活房间中之前被停用的所有实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can tell an instance to move in a direction, resolving collisions on the way and specify a direction in which the instance will attempt to move to get past obstacles, thus allowing traversal of slopes or small steps.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063024Z" creationid="LiarOnce" creationdate="20230305T063024Z">
+        <seg>使用此函数，您可以告知实例向某个方向移动，解决途中的碰撞，并指定实例将尝试移动以通过障碍物的方向，从而允许穿越斜坡或小步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53902,6 +54142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You supply a tileset index and the function returns a struct.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063020Z" creationid="LiarOnce" creationdate="20230305T063020Z">
+        <seg>您提供了一个图块集索引，该函数返回一个结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You supply an array of weak references to check (each weak reference should have been created using the function weak_ref_create()), and the function will return true if any of the structs are still being referenced somewhere or false if they are not and have been garbage collected.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -56026,6 +56274,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>圆的半径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>returns true if "struct" has "constructor_name" as part of its inheritance hierarchy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063232Z" creationid="LiarOnce" creationdate="20230305T063232Z">
+        <seg>如果“struct”的继承层次结构中包含“constructor_name”，则返回 true</seg>
       </tuv>
     </tu>
     <tu>
