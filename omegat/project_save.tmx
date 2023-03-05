@@ -982,6 +982,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A struct containing a set of playback parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062818Z" creationid="LiarOnce" creationdate="20230305T062818Z">
+        <seg>包含一组回放参数的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A struct containing any initial values for the effect's parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062820Z" creationid="LiarOnce" creationdate="20230305T062820Z">
+        <seg>包含效果参数的任何初始值的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A struct containing the parameters for the filter/effect</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -10550,6 +10566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parameters not specified will fall back to their default values/behaviour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062814Z" creationid="LiarOnce" creationdate="20230305T062808Z">
+        <seg>未指定的参数将回退到其默认值/行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Particles created with this flag are "connected" in pairs, with each particle being connected to the one that was closest to it at the time of creation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -10778,6 +10802,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>注意，这是一个异步功能，即:当排行榜页面显示时，你的游戏将继续在后台运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note that this is not an instance function!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062857Z" creationid="LiarOnce" creationdate="20230305T062857Z">
+        <seg>请注意，这不是实例函数！</seg>
       </tuv>
     </tu>
     <tu>
@@ -13890,6 +13922,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要连接发射器的音频总线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The audio bus whose emitters should be returned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062823Z" creationid="LiarOnce" creationdate="20230305T062823Z">
+        <seg>应返回其发射器的音频总线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19794,6 +19834,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要使用的字体索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The index of the font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062834Z" creationid="LiarOnce" creationdate="20230305T062834Z">
+        <seg>字体的索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35350,6 +35398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function can be used to set the tile bit mask for a single tile map.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062909Z" creationid="LiarOnce" creationdate="20230305T062858Z">
+        <seg>此函数可用于设置单个图块地图的图块位掩码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function can be used to set the tile index (the position of the tile within the tile set image) for a set of tile-data.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -37490,6 +37546,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数返回一个包含16个值的数组，对应于给定的4x4矩阵类型，其中第一行是元素[0 - 3]，第2行是元素[4 -7]，等等……(见主页图片)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function returns an array of all of the audio emitters linked to a given audio bus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062822Z" creationid="LiarOnce" creationdate="20230305T062822Z">
+        <seg>此函数返回链接到给定音频总线的所有音频发射器的数组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40390,6 +40454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will return the name of a given audio resource as a string.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062804Z" creationid="LiarOnce" creationdate="20230305T062804Z">
+        <seg>此函数将以字符串形式返回给定音频资源的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will return the name of the animation set currently used by the given track number (as set by the function skeleton_animation_set_ext).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230301T153154Z" creationid="LiarOnce" creationdate="20230301T153154Z">
@@ -42722,6 +42794,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>这个数字用于防止无限循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This only works on fonts added using font_add().</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062833Z" creationid="LiarOnce" creationdate="20230305T062833Z">
+        <seg>这仅适用于使用font_add()添加的字体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46198,6 +46278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whether to enable (true) or disable (false) SDF rendering for the specified font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062853Z" creationid="LiarOnce" creationdate="20230305T062853Z">
+        <seg>为指定字体启用 (true) 还是禁用 (false) SDF呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whether to enable (true) or disable (false) views in the given room.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -48030,6 +48118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can determine whether SDF rendering is enabled or disabled for the specified font</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062855Z" creationid="LiarOnce" creationdate="20230305T062855Z">
+        <seg>使用此功能，您可以确定是启用还是禁用指定字体的SDF渲染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can draw a 1 pixel wide line between any two points in the game room.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -48210,6 +48306,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>通过此函数，您可以启用(true)或禁用(false)游戏中除当前房间之外的任何房间的视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can enable or disable SDF rendering for the specified font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062826Z" creationid="LiarOnce" creationdate="20230305T062826Z">
+        <seg>使用此功能，您可以启用或禁用指定字体的SDF渲染。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53526,6 +53630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You provide a struct which contains a set of required parameters as well as any additional playback parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062806Z" creationid="LiarOnce" creationdate="20230305T062806Z">
+        <seg>您提供了一个结构，其中包含一组必需的参数以及任何附加的回放参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You provide the coordinates for the upper left corner and lower right corner of the rectangular area to draw the text, and GameMaker will take care of the rest, with spacing and position being done automatically.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -55834,6 +55946,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230301T152547Z" creationid="LiarOnce" creationdate="20230301T152547Z">
         <seg>macOS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>method/function that you want to call</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T063010Z" creationid="LiarOnce" creationdate="20230305T063010Z">
+        <seg>要调用的方法/函数</seg>
       </tuv>
     </tu>
     <tu>
