@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>16 bit float per channel RGBA surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140336Z" creationid="LiarOnce" creationdate="20230311T140336Z">
+        <seg>16 位浮点型每通道 RGBA 表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16 bit float single channel surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140253Z" creationid="LiarOnce" creationdate="20230311T140118Z">
+        <seg>16 位浮点型单通道表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3.141592653589793280etc... (the exact value will depend on various factors like the platform being targeted)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -182,10 +198,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>32 bit float per channel RGBA surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140349Z" creationid="LiarOnce" creationdate="20230311T140349Z">
+        <seg>32 位浮点型每通道 RGBA 表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>32 bit float single channel surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140256Z" creationid="LiarOnce" creationdate="20230311T140119Z">
+        <seg>32 位浮点型单通道表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3D (5.1) audio.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>3D (5.1) 音频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4 bit integer per channel (normalised) RGBA surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140315Z" creationid="LiarOnce" creationdate="20230311T140120Z">
+        <seg>4 位整型每通道(标准化) RGBA 表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8 bit integer per channel (normalised) RGBA surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140319Z" creationid="LiarOnce" creationdate="20230311T140117Z">
+        <seg>8 位整型每通道(标准化) RGBA 表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8 bit integer single channel (normalised) surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140149Z" creationid="LiarOnce" creationdate="20230311T140125Z">
+        <seg>8 位整型单通道(标准化)表面格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8 bit integer two channel (normalised) surface format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140216Z" creationid="LiarOnce" creationdate="20230311T140216Z">
+        <seg>8 位整型双通道(标准化)表面格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +578,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>乘数 1 =正常比例，0.5是一半等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A particle system resource to create an instance of.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135907Z" creationid="LiarOnce" creationdate="20230311T135907Z">
+        <seg>要创建其实例的粒子系统资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An array of strings to be used during trimming.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140028Z" creationid="LiarOnce" creationdate="20230311T140028Z">
+        <seg>要在修剪过程中使用的字符串数组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An array of values be concatenated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -2150,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calls to this function will produce a warning message.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135857Z" creationid="LiarOnce" creationdate="20230311T135857Z">
+        <seg>调用此函数将生成一条警告消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can be an object index, an instance id or the special keyword ,all</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -2666,6 +2754,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>默认为array_length() - 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defaults to false.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140024Z" creationid="LiarOnce" creationdate="20230311T140024Z">
+        <seg>默认为 false。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,6 +3498,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>对于多边形形状，这些点相对于夹具的原点，x/y 轴的 0,0 位置为中心，随后的坐标在 GameMaker 中照常计算，下/右为 +x,+y 和 上/左为 -x,-y。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For all targets other than HTML5, this will return true on Game Start.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135507Z" creationid="LiarOnce" creationdate="20230311T135507Z">
+        <seg>对于除 HTML5 之外的所有目标，这将在游戏开始时返回 true。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,6 +5266,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>如果IDE已经为sprite设置了动画速度，该速度过去是按每游戏帧的帧数计算的，那么给定的速度值是一个乘数，默认值为1，设置为0.5将使动画速度减半，而设置为2将使动画速度加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the array is empty undefined is returned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140035Z" creationid="LiarOnce" creationdate="20230311T140035Z">
+        <seg>如果数组为空，则返回 undefined。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10310,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On HTML5, this may only begin to return true after Game Start.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135515Z" creationid="LiarOnce" creationdate="20230311T135515Z">
+        <seg>在 HTML5 上，这可能只有在游戏开始后才开始返回 true。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Opera GX and HTML5, the audio context status can change at any time depending on user input, the browser being used, and its version, so this function can be used to check and see if audio can be played or not.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -11346,6 +11466,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>用给定的id返回纹理的宽度，它总是在0 - 1范围内的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Returns true if "struct" has "constructor_name" as part of its inheritance hierarchy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140112Z" creationid="LiarOnce" creationdate="20230311T140112Z">
+        <seg>如果 "struct" 的继承层次结构中包含 "constructor_name"，则返回 true</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The SDF spread value to set for the specified font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135836Z" creationid="LiarOnce" creationdate="20230311T135805Z">
+        <seg>要为指定字体设置的 SDF 跨距值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The URL (website address) to link to, or the script to be run.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -14022,6 +14158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The audio bus whose emitters should be cleared.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135728Z" creationid="LiarOnce" creationdate="20230311T135728Z">
+        <seg>应清除其发射器的音频总线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The audio bus whose emitters should be returned.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230305T062823Z" creationid="LiarOnce" creationdate="20230305T062823Z">
@@ -14578,6 +14722,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>通道名称 (一个字符串).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The channels to use (audio_mono, audio_stereo or audio_3D).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135700Z" creationid="LiarOnce" creationdate="20230311T135700Z">
+        <seg>要使用的通道 (audio_mono、audio_stereo 或 audio_3D)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16950,6 +17102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The format of the surface to be created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135908Z" creationid="LiarOnce" creationdate="20230311T135908Z">
+        <seg>要创建的曲面的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fourth input value.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -18106,6 +18266,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>一般的经验法则是，如果一个实例有很大的惯性，你将需要很大的扭矩来让它开始旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The given name refers to a Particle System.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140115Z" creationid="LiarOnce" creationdate="20230311T140115Z">
+        <seg>给定的名称指的是粒子系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19630,6 +19798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The index of the audio group whose asset indices should be retrieved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135853Z" creationid="LiarOnce" creationdate="20230311T135704Z">
+        <seg>应检索其资源索引的音频组的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The index of the buffer to change the size of.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -20642,6 +20818,38 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要使用的声音的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The index of the sound whose audio group should be retrieved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135707Z" creationid="LiarOnce" creationdate="20230311T135707Z">
+        <seg>应检索其音频组的声音的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The index of the sound whose loop section state is retrieved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135426Z" creationid="LiarOnce" creationdate="20230311T135426Z">
+        <seg>其循环部分状态被检索的声音的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The index of the sound whose loop-end is retrieved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135443Z" creationid="LiarOnce" creationdate="20230311T135443Z">
+        <seg>其循环结束被检索的声音的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The index of the sound whose loop-start is retrieved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135434Z" creationid="LiarOnce" creationdate="20230311T135434Z">
+        <seg>检索其循环开始的声音的索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24422,6 +24630,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The offset (in seconds) to set the end of the loop section to.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135439Z" creationid="LiarOnce" creationdate="20230311T135439Z">
+        <seg>要将循环部分结束设置为的偏移量(以秒为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The offset (in seconds) to set the start of the loop section to.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135430Z" creationid="LiarOnce" creationdate="20230311T135430Z">
+        <seg>要将循环部分的开始设置为的偏移量(秒)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The offset into the argument array</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230301T153107Z" creationid="LiarOnce" creationdate="20230301T153107Z">
@@ -26934,6 +27158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The state that the loop section should be set to.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135421Z" creationid="LiarOnce" creationdate="20230311T135421Z">
+        <seg>循环段应设置为的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stem of the arrow is drawn along these points with the actual arrow head being drawn at the end, where the size of the arrowhead is defined by the argument "size" and is calculated as being part of the stem so that the end point is always aligned with the position defined by x2,y2.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -27466,6 +27698,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>提供的map可以使用函数gpu_get_state()来创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The surface format to be tested.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135917Z" creationid="LiarOnce" creationdate="20230311T135917Z">
+        <seg>要测试的表面格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33966,6 +34206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function can be used to check if the audio engine has been initialised, after which all audio functions can be called normally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135451Z" creationid="LiarOnce" creationdate="20230311T135451Z">
+        <seg>此函数用于检查音频引擎是否已初始化，初始化后所有音频函数均可正常调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function can be used to check if the given layer exists.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -36318,6 +36566,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function has being deprecated and is now obsolete (use get_integer_async instead).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135815Z" creationid="LiarOnce" creationdate="20230311T135815Z">
+        <seg>此函数已弃用，现在已过时(请改用 get_integer_async)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function has being deprecated and is now obsolete (use get_string_async instead).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135906Z" creationid="LiarOnce" creationdate="20230311T135906Z">
+        <seg>此函数已弃用，现在已过时(请改用 get_string_async)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function has no effect on any other device.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -37238,6 +37502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function is used to test whether the specified surface format is supported on the current platform.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135916Z" creationid="LiarOnce" creationdate="20230311T135916Z">
+        <seg>此函数用于测试当前平台是否支持指定的表面格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function is used to update the local player preferences.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -37554,6 +37826,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数将指定的矩阵推入到矩阵堆栈中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function relinks all of the emitters linked to the given bus back to the main bus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135725Z" creationid="LiarOnce" creationdate="20230311T135708Z">
+        <seg>该函数将所有链接到给定总线的发射器重新链接回主线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38546,6 +38826,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数返回具有指定索引的字体是否存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function returns whether a given variable can be called (either beeing a method or a valid function index).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140114Z" creationid="LiarOnce" creationdate="20230311T140114Z">
+        <seg>此函数返回是否可以调用给定的变量(作为方法或有效的函数索引)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40174,6 +40462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will remove the last element in the given array and return its value.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140029Z" creationid="LiarOnce" creationdate="20230311T140029Z">
+        <seg>此函数将删除给定数组中的最后一个元素并返回其值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will remove the specified emitter from the given system and clear it from memory (this will also stop any particles from being produced by the given emitter, but it does NOT remove them from the room).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -40314,6 +40610,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数将返回一个包含给定动画曲线的所有数据的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function will return an array containing the asset index of each audio asset in the given audio group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135853Z" creationid="LiarOnce" creationdate="20230311T135702Z">
+        <seg>此函数将返回一个数组，其中包含给定音频组中每个音频资源的资源索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40614,6 +40918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will return the index of the audio group that is associated with the given sound index.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135705Z" creationid="LiarOnce" creationdate="20230311T135705Z">
+        <seg>此函数将返回与给定声音索引相关联的音频组的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will return the index value for any given animation curve channel.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -40790,6 +41102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will return the offset (in seconds) of the end of a sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135441Z" creationid="LiarOnce" creationdate="20230311T135441Z">
+        <seg>此函数将返回声音循环部分末尾的偏移量(以秒为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function will return the offset (in seconds) of the start of a sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135432Z" creationid="LiarOnce" creationdate="20230311T135432Z">
+        <seg>此函数将返回声音循环部分开始的偏移量(以秒为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will return the position of video in milliseconds</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -40834,6 +41162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数将返回两个角之间的最小角差，即-180度到180度之间的值(其中正角为逆时针，负角为顺时针)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function will return the state of a playing sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135424Z" creationid="LiarOnce" creationdate="20230311T135424Z">
+        <seg>此函数将返回播放声音的循环部分的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41310,6 +41646,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function will set the offset (in seconds) of the end of a sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135437Z" creationid="LiarOnce" creationdate="20230311T135437Z">
+        <seg>此函数将设置声音循环部分末尾的偏移量(以秒为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function will set the offset (in seconds) of the start of a sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135428Z" creationid="LiarOnce" creationdate="20230311T135428Z">
+        <seg>此函数将设置声音循环部分开始的偏移量(以秒为单位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function will set the position (in seconds) within the sound file for the sound to play from.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -41338,6 +41690,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>此函数将设置正在创建的粒子组的形状。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function will set the state of a playing sound's loop section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135418Z" creationid="LiarOnce" creationdate="20230311T135413Z">
+        <seg>此函数将设置播放声音的循环部分的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42066,6 +42426,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>这是一个遗留功能，可以用来保存游戏的当前状态，不建议再使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a particle system asset track.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140116Z" creationid="LiarOnce" creationdate="20230311T140116Z">
+        <seg>这是粒子系统资源轨迹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43042,6 +43410,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>这个数字用于防止无限循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This only works on fonts added using font_add(), and its effect is only visible if the font is using SDF rendering.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135800Z" creationid="LiarOnce" creationdate="20230311T135800Z">
+        <seg>这仅适用于使用 font_add() 添加的字体，并且其效果仅在字体使用 SDF 渲染时可见。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46126,6 +46502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whether of not the result JSON string should be prettified.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135922Z" creationid="LiarOnce" creationdate="20230311T135922Z">
+        <seg>结果 JSON 字符串是否应该美化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whether old particles should be drawn behind newer ones (true) or vice versa (false).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -46778,6 +47162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>要检查哪个鼠标按钮常量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While audio_system_is_available() reflects the ability to play audio, this function reflects the ability to call audio functions more generally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135525Z" creationid="LiarOnce" creationdate="20230311T135525Z">
+        <seg>虽然 audio_system_is_available() 反映了播放音频的能力，但此函数反映了更一般地调用音频函数的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49694,6 +50086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this function you can query the SDF spread value for the specified font</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135808Z" creationid="LiarOnce" creationdate="20230311T135808Z">
+        <seg>使用此功能，您可以查询指定字体的 SDF 跨距值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this function you can read a real number value from a text file and the function returns that value to be used or stored in a variable.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
@@ -50410,6 +50810,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>使用此函数，你可以将种子设置为一个已知的值，这样就"强制"所有随机事件的结果在程序每次运行时都是相同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this function you can set the SDF spread value for the specified font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T135836Z" creationid="LiarOnce" creationdate="20230311T135745Z">
+        <seg>使用此功能，您可以设置指定字体的 SDF 跨距值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51978,6 +52386,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="OmegaT Aligner" changedate="20230301T152114Z" creationid="OmegaT Aligner" creationdate="20230301T152114Z">
         <seg>在一个房间中最多可以有8个活动的视图端口(数组值从0到7)，并且可以通过简单地将该变量设置为相机ID值(由camera_create()或camera_create_view()函数返回)来将相机分配给其中的任何一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can optionally provide an array of strings to be used for trimming if you want to remove something other than whitespaces.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230311T140027Z" creationid="LiarOnce" creationdate="20230311T140027Z">
+        <seg>如果要删除空格以外的内容，可以选择提供用于修剪的字符串数组。</seg>
       </tuv>
     </tu>
     <tu>
